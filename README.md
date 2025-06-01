@@ -16,6 +16,12 @@ The **YouTube Video Summary Generator** is a Python-based tool that provides con
 - **Educational**: Helps students or professionals extract the essential points from informative or educational videos.
 - **Content Creation**: Ideal for content creators who want to quickly analyze videos and generate summaries for reviews, blogs, or marketing materials.
 
+## Images
+
+<img src="/images/1.png" alt="screenshot" width="1000"/> <img src="/images/2.png" alt="screenshot" width="1000"/>
+<img src="/images/3.png" alt="screenshot" width="1000"/>
+<img src="/images/4.png" alt="screenshot" width="1000"/>
+
 ## Requirements
 
 - **Python 3.7+**: This tool is built using Python 3.7 or later.
