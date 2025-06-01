@@ -18,9 +18,8 @@ The **YouTube Video Summary Generator** is a Python-based tool that provides con
 
 ## Images
 
-<img src="/images/1.png" alt="screenshot" width="1000"/> <img src="/images/2.png" alt="screenshot" width="1000"/>
-<img src="/images/3.png" alt="screenshot" width="1000"/>
-<img src="/images/4.png" alt="screenshot" width="1000"/>
+<img src="/images/1.png" alt="screenshot" width="1000"/> 
+<img src="/images/2.png" alt="screenshot" width="1000"/>
 
 ## Requirements
 
